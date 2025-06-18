@@ -2,6 +2,10 @@
 
 A simple and interactive quiz application built to test users' knowledge on various topics. This project is designed for easy customization and scalability.
 
+## Deployment
+
+You can try the live app here: [Quiz Application](https://abhishek-maurya-d.github.io/Quiz-Application/)
+
 ## Features
 
 - Multiple choice questions
