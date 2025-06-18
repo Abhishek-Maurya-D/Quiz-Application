@@ -8,13 +8,10 @@ A simple and interactive quiz application built to test users' knowledge on vari
 - Score tracking
 - Timer for each quiz
 - Responsive user interface
-- Easy to add or modify questions
 
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: (Add your backend technology, e.g., Node.js, Python, etc.)
-- (Optional) Database: (e.g., MongoDB, MySQL)
 
 ## Getting Started
 
@@ -37,7 +34,6 @@ A simple and interactive quiz application built to test users' knowledge on vari
 
 ## Customization
 
-- To add or edit questions, modify the questions data file located at `src/data/questions.js` (or your relevant path).
 - Update styles in `src/styles/` as needed.
 
 ## Contributing
